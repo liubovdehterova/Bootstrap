@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../scss/layout.css",
+	"sources": [
+		"../scss/layout.scss"
+	],
+	"sourcesContent": [
+		".head {\r\n    font-family: Arial, Helvetica, sans-serif;\r\n    display: flex;\r\n    justify-content: space-between;\r\n    align-items: center;\r\n}\r\n\r\n.card-item {\r\n    width: 18rem;\r\n    margin-right: 1rem;\r\n    &:last-child {\r\n        margin-right: 0;\r\n    }\r\n}\r\n.content {\r\n    display: flex;\r\n}\r\n.slide-item {\r\n    margin-top: 5%;\r\n}\r\n.button-item {\r\n    border: 1px solid rgb(179, 179, 179);\r\n}\r\n.button-menu {\r\n    text-align: center;\r\n    margin-top: 5%;\r\n}"
+	],
+	"mappings": ";AAAA,AAAA,KAAK,CAAC;EACF,WAAW,EAAE,4BAA6B;EAC1C,OAAO,EAAE,IAAK;EACd,eAAe,EAAE,aAAc;EAC/B,WAAW,EAAE,MAAO;CACvB;;;AAED,AAAA,UAAU,CAAC;EACP,KAAK,EAAE,KAAM;EACb,YAAY,EAAE,IAAK;CAItB;;;AAND,AAAA,UAAU,AAGL,WAAW,CAAC;EACT,YAAY,EAAE,CAAE;CACnB;;;AAEL,AAAA,QAAQ,CAAC;EACL,OAAO,EAAE,IAAK;CACjB;;;AACD,AAAA,WAAW,CAAC;EACR,UAAU,EAAE,EAAG;CAClB;;;AACD,AAAA,YAAY,CAAC;EACT,MAAM,EAAE,GAAG,CAAC,KAAK,CAAC,OAAG;CACxB;;;AACD,AAAA,YAAY,CAAC;EACT,UAAU,EAAE,MAAO;EACnB,UAAU,EAAE,EAAG;CAClB",
+	"names": []
+}
